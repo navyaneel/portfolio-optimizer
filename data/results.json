@@ -1,0 +1,38 @@
+{
+  "ms_sharpe": 1.2569,
+  "ms_return": 50.13,
+  "ms_vol": 35.91,
+  "mv_sharpe": 0.7611,
+  "mv_return": 26.01,
+  "mv_vol": 27.6,
+  "ms_weights": {
+    "AAPL": 51.05,
+    "MSFT": 8.84,
+    "GOOG": 0.0,
+    "AMZN": 0.0,
+    "TSLA": 40.12
+  },
+  "mv_weights": {
+    "AAPL": 21.45,
+    "MSFT": 37.05,
+    "GOOG": 27.47,
+    "AMZN": 12.82,
+    "TSLA": 1.21
+  },
+  "metrics": {
+    "Optimized": {
+      "Total Return": "1389.76%",
+      "Annualized Return": "54.53%",
+      "Annualized Volatility": "35.92%",
+      "Sharpe Ratio": "1.379",
+      "Max Drawdown": "-43.78%"
+    },
+    "Equal Weight": {
+      "Total Return": "478.53%",
+      "Annualized Return": "32.69%",
+      "Annualized Volatility": "29.52%",
+      "Sharpe Ratio": "0.938",
+      "Max Drawdown": "-36.83%"
+    }
+  }
+}
